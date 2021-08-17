@@ -1,3 +1,0 @@
-uproot
-awkward
-boto3
