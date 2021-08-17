@@ -4,3 +4,6 @@ channels:
 dependencies:
   - root
   - uproot
+  - numpy
+  - pandas
+  - matplotlib
