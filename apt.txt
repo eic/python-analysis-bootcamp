@@ -1,4 +1,1 @@
-build-essential
-cmake
-uuid
-python3
+python3-xrootd
