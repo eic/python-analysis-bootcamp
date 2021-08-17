@@ -1,3 +1,4 @@
-uproot==4.0.10
-awkward==1.3.0
-xrootd==5.3.1
+uproot
+awkward
+boto3
+xrootd
