@@ -1,0 +1,7 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "features": {
+        "ghcr.io/rocker-org/devcontainer-features/miniforge:1": {}
+    },
+    "postCreateCommand": "./.devcontainer/postCreateCommand.sh"
+}
