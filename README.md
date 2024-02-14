@@ -1,7 +1,19 @@
 # EIC Analysis Bootcamp
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eic/python-analysis-bootcamp/main) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eic/python-analysis-bootcamp/)
+Running on Github
+-----------------
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/eic/python-analysis-bootcamp?quickstart=1)
 
+Running on Binder
+-----------------
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eic/python-analysis-bootcamp/main)
+
+Running on Google Colab
+-----------------------
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eic/python-analysis-bootcamp/)
+
+Contents
+--------
 EIC Analysis Bootcamp Notebooks to run on Binder or Google Colab. 
 
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eic/python-analysis-bootcamp/main?filepath=Getting%20Started.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eic/python-analysis-bootcamp/Getting%20Started.ipynb) Getting Started
