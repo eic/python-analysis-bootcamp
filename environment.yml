@@ -2,6 +2,7 @@ name: analysis
 channels:
   - conda-forge
 dependencies:
+  - fsspec-xrootd
   - jupyterlab
   - jupyterlab-git
   - matplotlib
